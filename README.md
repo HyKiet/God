@@ -1,6 +1,6 @@
 # Petty Pantheon (Đền Thần Nhỏ Nhen)
 
-God-sim sandbox 2D nhiều người chơi, lấy cảm hứng từ thể loại WorldBox: 1–4 vị thần tranh giành tín đồ, dân AI biết cầu nguyện và ghi thù.
+God game 2D cho nhóm bạn: 2–4 vị thần nhỏ nhen phải cùng nhau giữ thế giới qua thảm hoạ, nhưng cuối ván chỉ một thần được thờ nhiều nhất. Dân AI biết nhớ, biết thù và học cách chống lại thần.
 
-- Tài liệu thiết kế: [docs/GDD.md](docs/GDD.md)
+- Tài liệu thiết kế (v3, hợp nhất): [docs/GDD.md](docs/GDD.md)
 - Engine: Unity 6 LTS · Nền tảng: Steam (PC) trước
